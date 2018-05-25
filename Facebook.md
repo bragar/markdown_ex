@@ -5,4 +5,4 @@
 
 ## To register your application please read the facebook help
 
-[Developer facebook documentation](https://developers.facebook.com/docs/apps/register/)
+[Link to facebook developer documentation](https://developers.facebook.com/docs/apps/register/)
